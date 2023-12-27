@@ -6,3 +6,4 @@
     - name: Install Apache
       ansible.builtin.dnf:
         name: httpd
+- name: Test
